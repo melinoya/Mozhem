@@ -1,0 +1,477 @@
+
+@media (min-width: 480px) and (max-width: 767px) { 
+  .toggle-mnu {
+    display: block;
+    margin-left: -40px;
+  }
+  .main_header .logo {
+    width: 35%;
+    height: 100%;
+    margin: 15px 0;
+  }
+
+  .select_city {
+    margin-left: -60px;
+    margin-right: 0px;
+  }
+
+  .profile {
+    margin-left: 80px;
+    margin-top: -20px;
+  }
+
+  .filter {
+    margin-left: 15%;
+    margin-top: -25px;
+  }
+
+  .main_menu {
+    display: none;
+  }
+
+  .toggle-mnu {
+    display: block;
+  }
+
+  .popular {
+    width: 90%;
+    height: 90%;
+    margin-left: 25px;
+    padding: 10px;
+  }
+
+  .popular_description {
+    width: 100%;
+    padding-left: 0;
+  }
+
+  .description_info {
+    margin: 0 auto;
+    margin-top: -15%;
+  }
+
+  .popular_description .btn {
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-right: 15%;
+    margin-left: 15%;
+    
+  }
+
+  .mosaic_b_1 {    
+    margin-top: 30px;
+    margin-left: 15%; 
+  }
+
+  .mosaic_three_row_1,
+  .mosaic_three_row_2 {
+    width: 50%;
+    margin-left: 30%;
+  }
+
+
+  .mosaic_three_pazzle_1,
+  .mosaic_three_pazzle_2 {
+    margin-top: 30px;
+    margin-left: 10%;
+    margin-right: -150px;
+  }
+
+
+  .mosaic_b_2 {
+    margin-top: 30px;
+    margin-left: 15%;
+  }
+
+  .bait {
+    width: 85%;
+    margin-left: 35px;
+    margin-bottom: 30px;
+  }
+
+  .bait_content,
+  .bait_content h3 {
+    width: 100%;
+    font-size: 150%;
+  }
+
+  .owners_choice {
+    margin-left: 18%;
+  }
+
+
+  .express {
+    margin-left: -10px;
+  }
+
+  .news {
+    width: 90%;
+    padding-left: 13%;
+  }
+
+  .news p {
+    width: 100%;
+  }
+
+  .offer_img {
+    width: 100%;
+  }
+
+  .special_offers h4 {
+    margin-bottom: 50px;
+  }
+
+  .offer {
+    padding: 0;
+  }
+
+  .main_footer {
+    padding: 0;
+  }
+
+  .footer_nav ul {
+    text-align: center;
+  }
+
+  .footer_nav a {
+    margin-bottom: 20px;
+    padding: 0 10px;
+  }
+
+  .footer_nav li:nth-of-type(1) a {
+    padding: 0 20px;
+  }
+
+  .adress {
+    width: 105px;
+    margin-left: -20px;
+    margin-right: 30px;
+    padding: 0;
+  }
+
+  .social {
+    width: 100px;
+    padding: 0;
+    margin-right: 10px; 
+    margin-left: -30px;
+  }
+
+  .logo_footer {
+    width: 20%;
+    padding: 0;
+    margin-left: 20%;
+    margin-right: -20px;
+    
+  }
+
+  .logo_footer img.logo {
+    margin: 0;
+    width: 100px;
+    height: 20px;
+  }
+
+  .like {
+    display: block;
+  }
+
+  .catalog_description {
+    width: 85%;
+  }
+
+  .good_img {
+    height: 350px;
+  }
+
+  .middle {
+    flex-wrap: wrap;
+  }
+  .bottom {
+    margin-left: -70px;
+  }
+
+  .bottom .submit_btn  {
+    margin-left: -20px;
+  }
+
+  .widget_vk {
+    margin-top: 30px;
+    margin-left: 68%;
+  }
+
+}
+     
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+  .select_city {
+    margin-left: -65px;
+    margin-right: 20px;
+  }
+
+  .filter {
+    margin-left: 0;
+  }
+
+  .main_menu {
+    display: none;
+  }
+
+  .toggle-mnu {
+    display: block;
+  }
+
+  .popular {
+    width: 90%;
+    height: 90%;
+    margin-left: 40px;
+    margin-bottom: 30px;
+  }
+
+  .popular_description {
+    width: 100%;
+  }
+
+  .description_info {
+    margin-left: -10%;
+  }
+
+  .popular_description .btn {
+    margin-right: -10%;
+  }
+
+  .mosaic_b_1 {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  .mosaic_three_row_1 {
+    margin-right: -10px;
+  }
+
+  .mosaic_three_pazzle_1 {
+    margin-left: 20%;
+  }
+
+  .mosaic_three_pazzle_2 {
+    margin-left: 20%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+  }
+
+  .mosaic_b_2 {
+    margin-left: 60px;
+    margin-right: 30px;
+  }
+
+  .bait {
+    margin-left: 35px;
+    margin-bottom: 30px;
+  }
+
+  .owners_choice {
+    margin-left: 30%;
+  }
+
+
+  .express {
+    margin-left: 20%;
+  }
+
+  .news {
+    width: 90%;
+    padding-left: 13%;
+  }
+
+  .news p {
+    width: 100%;
+  }
+
+  .offer_img {
+    width: 100%;
+  }
+
+  .offer {
+    padding: 0;
+  }
+
+  .main_footer {
+    padding: 0;
+  }
+
+  .footer_nav ul {
+    text-align: start;
+  }
+
+  .footer_nav a {
+    /*margin-left: -10px;
+    margin-right: -10px;*/
+    padding: 0 10px;
+  }
+
+  .footer_nav li:nth-of-type(1) a {
+    padding: 0 20px;
+  }
+
+  .adress {
+    margin-left: -20px;
+  }
+
+  .social {
+    margin-left: -30px;
+  }
+
+  .logo_footer {
+    width: 27%;
+    padding: 0;
+    margin-left: 90px;
+    margin-right: 0;
+    
+  }
+
+  .logo_footer img.logo {
+    margin: 0;
+    width: 190px;
+    height: 40px;
+  }
+
+  .catalog_description {
+    width: 85%;
+  }
+
+  .good_img {
+    height: 350px;
+  }
+
+  .middle {
+    flex-wrap: wrap;
+  }
+
+  .recomended {
+    margin-left: -150px;
+  }
+
+  .bottom .submit_btn  {
+    margin-left: -10px;
+  }
+}
+    
+   
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+  .motto {
+    margin-left: -90px;
+  }
+
+  .select_city {
+    margin-left: -15px;
+    margin-right: 20px;
+  }
+
+  .main_menu {
+    display: none;
+  }
+
+  .toggle-mnu {
+    display: block;
+  }
+
+  .filter {
+    margin-left: 30px;
+  }
+
+  .popular {
+    margin-left: 12%;
+  }
+
+  .mosaic {
+    margin-top: 30px;
+  }
+
+  .mosaic_b_1 {
+    margin-left: 18%;
+  }
+
+  .mosaic_three_pazzle_1 {
+    margin-left: 27%;
+    margin-bottom: 100px;
+  }
+
+  .mosaic_three_pazzle_1 a:nth-of-type(3) {
+    margin-right: -65px;
+  }
+
+  .mosaic_three_pazzle_2 {
+    margin-left: 6%;
+  }
+
+  .mosaic_three_pazzle_2 a:nth-of-type(3) {
+    margin-right: -140px;
+  }
+
+  .mosaic_b_2 {
+    margin-left: 55px;
+  }
+
+  .mosaic_three_row_2 {
+    margin-left: 36%;
+    margin-bottom: 30px;
+  }
+
+  .bait {
+    margin-left: 15%;
+  }
+
+  .owners_choice {
+    margin-left: 33%;
+    margin-top: 30px;
+  }
+
+
+  .express_masterclass {
+    margin-left: 23%;
+  }
+
+  .news {
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  .footer_nav {
+    padding: 0;
+  }
+
+  .adress {
+    margin-left: 50px;
+    margin-right: 20px;
+  }
+
+  .logo_footer {
+    margin-right: -60px;
+    margin-left: 80px;
+  }
+
+  .catalog_description {
+    width: 90%;
+  }
+
+  .catalog_description p {
+    margin-bottom: 0;
+  }
+
+  .good_img {
+    height: 435px;
+  }
+
+  .middle {
+    flex-wrap: wrap;
+  }
+
+  .img_contacts img {
+    width: 90%;
+  }
+
+  
+
+}
+   
